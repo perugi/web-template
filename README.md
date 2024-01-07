@@ -1,12 +1,18 @@
 # web-template
-Short description of the project.
+A template repository, to be used for web projects.
 
 💻 [Live Demo](link-to-demo) 💻
 
 ![screenshot](link-to-screenshot)
 
 ## 💡 Features
-- Description
+- preinstalled common npm modules
+- webpack development and production configurations
+- prettier configuration
+- node .gitignore
+- CSS reset
+- basic folder structure and boilerplate
 
 ## 🛠️ Technologies, Tools, Design Approaches
-- Description
+- HTML, vanilla CSS and JS
+- npm, webpack
