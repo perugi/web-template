@@ -8,7 +8,7 @@ A template repository, to be used for web projects.
 ## 💡 Features
 - preinstalled common npm modules
 - webpack development and production configurations
-- prettier configuration
+- eslint and prettier configuration
 - node .gitignore
 - CSS reset
 - basic folder structure and boilerplate
